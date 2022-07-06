@@ -7,21 +7,21 @@
   },
   {
     "full_name": "cashapp/pranadb",
-    "stargazers_count": 567,
-    "open_issues_count": 68,
+    "stargazers_count": 568,
+    "open_issues_count": 70,
     "forks_count": 19
   },
   {
     "full_name": "diego-vicente/som-tsp",
-    "stargazers_count": 2735,
+    "stargazers_count": 2737,
     "open_issues_count": 0,
     "forks_count": 448
   },
   {
     "full_name": "rakyll/hey",
-    "stargazers_count": 13816,
+    "stargazers_count": 13827,
     "open_issues_count": 155,
-    "forks_count": 973
+    "forks_count": 975
   },
   {
     "full_name": "ragoob/kafkana",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 83218,
-    "open_issues_count": 23,
-    "forks_count": 9986
+    "stargazers_count": 83426,
+    "open_issues_count": 27,
+    "forks_count": 9993
   },
   {
     "full_name": "Appboy/worker-pools",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 146598,
-    "open_issues_count": 250,
-    "forks_count": 13981
+    "stargazers_count": 147407,
+    "open_issues_count": 251,
+    "forks_count": 14041
   },
   {
     "full_name": "gotenberg/gotenberg",
-    "stargazers_count": 3778,
-    "open_issues_count": 29,
-    "forks_count": 303
+    "stargazers_count": 3790,
+    "open_issues_count": 27,
+    "forks_count": 305
   },
   {
     "full_name": "ibrahim-sakr/smarc_graphql",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "area17/twill",
-    "stargazers_count": 2828,
-    "open_issues_count": 81,
-    "forks_count": 424
+    "stargazers_count": 2834,
+    "open_issues_count": 79,
+    "forks_count": 426
   },
   {
     "full_name": "alash3al/wsify",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "observing/thor",
-    "stargazers_count": 1240,
+    "stargazers_count": 1242,
     "open_issues_count": 42,
     "forks_count": 163
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 29849,
+    "stargazers_count": 29897,
     "open_issues_count": 53,
-    "forks_count": 2619
+    "forks_count": 2622
   },
   {
     "full_name": "xfoxawy/TwoCheckout",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "xwiki-labs/cryptpad",
-    "stargazers_count": 3724,
+    "stargazers_count": 3730,
     "open_issues_count": 205,
-    "forks_count": 410
+    "forks_count": 411
   },
   {
     "full_name": "ibrahim-sakr/he-youtrack-lib",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "jupeter/clean-code-php",
-    "stargazers_count": 10872,
+    "stargazers_count": 10884,
     "open_issues_count": 18,
-    "forks_count": 2680
+    "forks_count": 2685
   },
   {
     "full_name": "ibrahim-sakr/he-event-system",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "jtesta/ssh-mitm",
-    "stargazers_count": 1439,
+    "stargazers_count": 1440,
     "open_issues_count": 12,
     "forks_count": 205
   },
@@ -165,7 +165,7 @@
     "full_name": "gothinkster/laravel-realworld-example-app",
     "stargazers_count": 1099,
     "open_issues_count": 21,
-    "forks_count": 909
+    "forks_count": 908
   },
   {
     "full_name": "d4t4x/data-selfie",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "aliasaria/scrumblr",
-    "stargazers_count": 1370,
+    "stargazers_count": 1371,
     "open_issues_count": 53,
     "forks_count": 470
   }
